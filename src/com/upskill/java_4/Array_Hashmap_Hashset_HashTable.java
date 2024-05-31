@@ -26,7 +26,7 @@ public class Array_Hashmap_Hashset_HashTable {
 		int [][] ageThanos2D = {{30, 35, 27, 22, 40, 32},		//[0][0] [0][1] [0][2] [0][3] [0][4] [0][5]
 								{37, 26, 24, 35}};				//[1][0] [1][1] [1][2] [1][3]
 		
-		System.out.println("Student Age 2D : " + ageThanos2D[0][4]);
+		System.out.println("Student Age 2D : " + ageThanos2D[1][1]);
 		
 		// Hashmap store multipul data using key-value pair, Implementation of Map interface
 		
